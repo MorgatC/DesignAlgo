@@ -46,6 +46,9 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ## Author
 Morgat Cochennec ES04094
+
 Zoe Savi ES04034
+
 Lea Fougera ES04032
+
 Corentin Gigot ES
