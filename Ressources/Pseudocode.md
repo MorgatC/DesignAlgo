@@ -27,7 +27,7 @@ while(start<= end) {
 if flag==0
         print "String not found"
         leave program
-
+```
 
 ATTENTION: THIS PSEUCODE IS ONLY FOR THE PRIMARY FUNCTION OF THE ACTUAL CODE, IF YOU WANT TO SEE ALL THE PROGRAM
 OPEN MAIN.C THERE ARE MANY FEATURES IN IT
