@@ -23,11 +23,11 @@ gcc main.c -o phone_directory
 ## Functionality
 The program provides the following options in the menu:
 
-1. Searching for a phone number by name: Enter a name and get the corresponding phone number(s) for matching contacts.
+1. Searching for a phone number by name: Enter a name **Don't forget the Uppercase for the first letter** and get the corresponding phone number(s) for matching contacts.
 
-2. Search for a phone number by first name: Enter a first name and get the corresponding phone number(s) for matching contacts.
+2. Search for a phone number by first name: Enter a first name **Don't forget the Uppercase for the first letter** and get the corresponding phone number(s) for matching contacts.
 
-3. Searching for a name from a phone number: Enter a phone number (without the +66 country code) and get the corresponding contact's name.
+3. Searching for a name from a phone number: Enter a phone number **(without the +66 country code)** and get the corresponding contact's name.
 
 4. Search based on a function: Choose a specific function (e.g., "student," "administrator") and display the contacts with that function.
 
